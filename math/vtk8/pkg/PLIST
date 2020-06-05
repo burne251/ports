@@ -3464,3 +3464,9 @@ lib/libvtkverdict-8.2.so.1
 lib/libvtkzlib-8.2.so.1
 share/doc/vtk-8.2/
 share/doc/vtk-8.2/Copyright.txt
+share/doc/vtk-8.2/verdict/
+share/doc/vtk-8.2/verdict/1.2.0/
+share/doc/vtk-8.2/verdict/1.2.0/README
+share/doc/vtk-8.2/verdict/1.2.0/Verdict.doc
+share/doc/vtk-8.2/verdict/1.2.0/Verdict.htm
+share/doc/vtk-8.2/verdict/1.2.0/verdict_test.cpp

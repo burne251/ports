@@ -145,9 +145,6 @@ WANTLIB +=		${COMPILER_LIBCXX}
 
 WANTLIB += 		GL GLU ICE SM X11 Xext Xt m pthread freetype
 
-LIB_DEPENDS = 		graphics/tiff\
-	  		graphics/png 
-
 SEPARATE_BUILD =	Yes
 
 
