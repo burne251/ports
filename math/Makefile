@@ -150,6 +150,7 @@
      SUBDIR += suitesparse
      SUBDIR += udunits
      SUBDIR += veusz
+     SUBDIR += vtk8
      SUBDIR += wcalc
      SUBDIR += wmcalc
      SUBDIR += wxMaxima
